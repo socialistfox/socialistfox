@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.socialistfox.com"><img src="https://img.shields.io/badge/Website-socialistfox.com-0A5BFC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://calendly.com/socialistfox"><img src="https://img.shields.io/badge/Book_a_call-Calendly-0A5BFC?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a call"></a>
+  <a href="https://calendly.com/socialistfox"><img src="https://img.shields.io/badge/Book_a_call-0A5BFC?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a call"></a>
   <a href="mailto:contact@socialistfox.com"><img src="https://img.shields.io/badge/Email-contact%40socialistfox.com-0E1729?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
